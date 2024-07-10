@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anokye James Yaw</h1>
-<h3 align="center">A passionate and aspiring Software Developer and Computer Science Student At Kibo School Of Technology.</h3>
+<h3 align="center">A passionate and aspiring Software Developer </h3>
 
 - 🌱 I’m currently learning **Frameworks,Software Development.**
 
